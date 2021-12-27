@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/api-thunk/static/css/main.01a22388.css",
+    "main.js": "/api-thunk/static/js/main.8643b8f8.js",
+    "index.html": "/api-thunk/index.html",
+    "main.01a22388.css.map": "/api-thunk/static/css/main.01a22388.css.map",
+    "main.8643b8f8.js.map": "/api-thunk/static/js/main.8643b8f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01a22388.css",
+    "static/js/main.8643b8f8.js"
+  ]
+}
